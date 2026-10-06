@@ -16,7 +16,7 @@ SysTools は、Linux（systemd）と macOS 向けのフルスクリーンのタ�
 | Linux、ARM64（systemd） | `systools-linux-arm64.tar.gz` |
 | macOS、Apple Silicon | `systools-macos-arm64.tar.gz` |
 
-[最新リリース](https://github.com/walisayu/systools/releases/latest)からダウンロードしてください。Linux 版は Debian 12 でビルドし、Ubuntu 24.04 で動作を確認しています。
+[最新リリース](https://github.com/walisayu/systools/releases/latest)からダウンロードしてください。Linux 版は Rocky Linux 8（glibc 2.28）でビルドしているため、RHEL・Rocky Linux・AlmaLinux 8 以降、およびその他の glibc 2.28 以降のディストリビューションで動作します。Rocky Linux 8、Debian 12、Ubuntu 24.04 で動作を確認しています。
 
 ## インストール
 

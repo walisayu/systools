@@ -16,7 +16,7 @@ Website: [systools.spex.com.tw](https://systools.spex.com.tw)
 | Linux, ARM64 (systemd) | `systools-linux-arm64.tar.gz` |
 | macOS, Apple Silicon | `systools-macos-arm64.tar.gz` |
 
-Get them from the [latest release](https://github.com/walisayu/systools/releases/latest). The Linux builds are built on Debian 12 and tested on Ubuntu 24.04.
+Get them from the [latest release](https://github.com/walisayu/systools/releases/latest). The Linux builds are built on Rocky Linux 8 (glibc 2.28), so they run on RHEL, Rocky Linux, and AlmaLinux 8 or newer, and on other distributions with glibc 2.28 or newer. They are tested on Rocky Linux 8, Debian 12, and Ubuntu 24.04.
 
 ## Install
 

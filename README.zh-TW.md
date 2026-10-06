@@ -16,7 +16,7 @@ SysTools 是全畫面的終端機系統管理主控台，支援 Linux（systemd�
 | Linux，ARM64（systemd） | `systools-linux-arm64.tar.gz` |
 | macOS，Apple Silicon | `systools-macos-arm64.tar.gz` |
 
-請到[最新版本](https://github.com/walisayu/systools/releases/latest)下載。Linux 版在 Debian 12 環境建置，已在 Ubuntu 24.04 上實測。
+請到[最新版本](https://github.com/walisayu/systools/releases/latest)下載。Linux 版在 Rocky Linux 8（glibc 2.28）環境建置，可在 RHEL、Rocky Linux、AlmaLinux 8 以上，以及其他 glibc 2.28 以上的發行版執行；已在 Rocky Linux 8、Debian 12、Ubuntu 24.04 上實測。
 
 ## 安裝
 
