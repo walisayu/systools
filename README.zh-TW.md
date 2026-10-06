@@ -1,12 +1,12 @@
 # SysTools
 
-[English](README.md) | **繁體中文**
+[English](README.md) | **繁體中文** | [日本語](README.ja.md)
 
 SysTools 是全畫面的終端機系統管理主控台，支援 Linux（systemd）與 macOS。服務、行程、CPU、記憶體、磁碟、網路、紀錄、排程、登入連線、檔案管理員、腳本逐步執行與設定檔編輯，集中在同一個鍵盤操作介面。
 
 這個 repository 只放發布的執行檔，不公開原始碼。
 
-產品介紹：https://systools.spex.com.tw
+產品網站：[systools.spex.com.tw](https://systools.spex.com.tw)
 
 ## 下載
 

@@ -1,12 +1,12 @@
 # SysTools
 
-**English** | [繁體中文](README.zh-TW.md)
+**English** | [繁體中文](README.zh-TW.md) | [日本語](README.ja.md)
 
 SysTools is a full-screen terminal console for system administration on Linux (systemd) and macOS. Services, processes, CPU, memory, disks, network, logs, schedules, login sessions, a file manager, a step-by-step script runner, and config file editing share one keyboard-driven interface.
 
 This repository only hosts the release builds. The source code is not published.
 
-Product page: https://systools.spex.com.tw
+Website: [systools.spex.com.tw](https://systools.spex.com.tw)
 
 ## Download
 
